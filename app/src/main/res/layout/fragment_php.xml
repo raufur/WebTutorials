@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.epsilon.coders.webtutorials.PHPFragment">
+
+    <ListView
+        android:id="@+id/listViewPhp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="48.0dip"
+        android:entries="@array/arrayPhp"
+        android:padding="5.0dip"
+        android:scrollbars="none" />
+
+    <ImageView
+        android:id="@+id/buttonUpgrade"
+        android:layout_width="fill_parent"
+        android:layout_height="48.0dip"
+        android:layout_alignParentBottom="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/banner" />
+
+</RelativeLayout>

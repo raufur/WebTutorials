@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Web Tutorials</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="menu_ajax">Ajax</string>
+    <string name="menu_angularjs">AngularJS</string>
+    <string name="menu_bootstrap">Bootstrap</string>
+    <string name="menu_css">CSS</string>
+    <string name="menu_css3">CSS3</string>
+    <string name="menu_guide">Developers Guide</string>
+    <string name="menu_html">HTML</string>
+    <string name="menu_html5">HTML5</string>
+    <string name="menu_interviews">Interviews</string>
+    <string name="menu_jqeryui">jQueryUI</string>
+    <string name="menu_jquery">jQuery</string>
+    <string name="menu_js">Java Script</string>
+    <string name="menu_mysql">MySQL</string>
+    <string name="menu_php">PHP</string>
+    <string name="menu_python">Python</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item android:icon="@drawable/ic_menu_share" android:id="@+id/nav_php" android:title="@string/menu_php" />
+        <item android:icon="@drawable/ic_menu_camera" android:id="@+id/nav_mysql" android:title="@string/menu_mysql" />
+        <item android:icon="@drawable/ic_menu_share" android:id="@+id/nav_css" android:title="@string/menu_css" />
+        <item android:icon="@drawable/ic_menu_camera" android:id="@+id/nav_css3" android:title="@string/menu_css3" />
+        <item android:icon="@drawable/ic_menu_camera" android:id="@+id/nav_html" android:title="@string/menu_html" />
+        <item android:icon="@drawable/ic_menu_share" android:id="@+id/nav_html5" android:title="@string/menu_html5" />
+        <item android:icon="@drawable/ic_menu_share" android:id="@+id/nav_js" android:title="@string/menu_js" />
+        <item android:icon="@drawable/ic_menu_gallery" android:id="@+id/nav_jquery" android:title="@string/menu_jquery" />
+        <item android:icon="@drawable/ic_menu_manage" android:id="@+id/nav_jqueryui" android:title="@string/menu_jqeryui" />
+        <item android:icon="@drawable/ic_menu_send" android:id="@+id/nav_angularjs" android:title="@string/menu_angularjs" />
+        <item android:icon="@drawable/ic_menu_slideshow" android:id="@+id/nav_bootstrap" android:title="@string/menu_bootstrap" />
+        <item android:icon="@drawable/ic_menu_share" android:id="@+id/nav_python" android:title="@string/menu_python" />
+        <item android:icon="@drawable/ic_menu_slideshow" android:id="@+id/nav_ajax" android:title="@string/menu_ajax" />
+        <item android:icon="@drawable/ic_menu_share" android:id="@+id/nav_guide" android:title="@string/menu_guide" />
+        <item android:icon="@drawable/ic_menu_camera" android:id="@+id/nav_interviews" android:title="@string/menu_interviews" />
+
+
+    </group>
+
+
+
+
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

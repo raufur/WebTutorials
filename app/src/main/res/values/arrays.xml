@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="arrayAjax">
+        <item>AJAX - Guide</item>
+        <item>AJAX - Resources</item>
+        <item>AJAX - Home</item>
+        <item>AJAX - What is AJAX?</item>
+        <item>AJAX - Technologies</item>
+        <item>AJAX - Examples</item>
+        <item>AJAX - Browser Support</item>
+        <item>AJAX - Action</item>
+        <item>AJAX - XMLHttpRequest</item>
+        <item>AJAX - Database Operations</item>
+        <item>AJAX - Security</item>
+        <item>AJAX - Issues</item>
+    </string-array>
+    <string-array name="arrayAngularJS">
+        <item>AngularJS - Home</item>
+        <item>AngularJS - Overview</item>
+        <item>AngularJS - Environment Setup</item>
+        <item>AngularJS - MVC Architecture</item>
+        <item>AngularJS - First Application</item>
+        <item>AngularJS - Directives</item>
+        <item>AngularJS - Expressions</item>
+        <item>AngularJS - Controllers</item>
+        <item>AngularJS - Filters</item>
+        <item>AngularJS - Tables</item>
+        <item>AngularJS - HTML DOM</item>
+        <item>AngularJS - Modules</item>
+        <item>AngularJS - Forms</item>
+        <item>AngularJS - Includes</item>
+        <item>AngularJS - AJAX</item>
+        <item>AngularJS - Views</item>
+        <item>AngularJS - Scopes</item>
+        <item>AngularJS - Services</item>
+        <item>AngularJS - Dependency Injection</item>
+        <item>AngularJS - Custom Directives</item>
+        <item>AngularJS - Internalization</item>
+        <item>AngularJS - Quick Guide</item>
+        <item>AngularJS - Useful Resources</item>
+    </string-array>
+    <string-array name="arrayBootstrap">
+        <item>Bootstrap - Home</item>
+        <item>Bootstrap - Overview</item>
+        <item>Bootstrap - Environment Setup</item>
+        <item>Bootstrap - Grid System</item>
+        <item>Bootstrap - CSS Overview</item>
+        <item>Bootstrap - Typography</item>
+        <item>Bootstrap - Code</item>
+        <item>Bootstrap - Tables</item>
+        <item>Bootstrap - Forms</item>
+        <item>Bootstrap - Buttons</item>
+        <item>Bootstrap - Images</item>
+        <item>Bootstrap - Helper Classes</item>
+        <item>Bootstrap - Responsive utilities</item>
+        <item>Bootstrap - Glyphicons</item>
+        <item>Bootstrap - Dropdowns</item>
+        <item>Bootstrap - Button Groups</item>
+        <item>Bootstrap - Button Dropdowns</item>
+        <item>Bootstrap - Input Groups</item>
+        <item>Bootstrap - Navigation Elements</item>
+        <item>Bootstrap - Navbar</item>
+        <item>Bootstrap - Breadcrumb</item>
+        <item>Bootstrap - Pagination</item>
+        <item>Bootstrap - Labels</item>
+        <item>Bootstrap - Badges</item>
+        <item>Bootstrap - Jumbotron</item>
+        <item>Bootstrap - Page Header</item>
+        <item>Bootstrap - Thumbnails</item>
+        <item>Bootstrap - Alerts</item>
+        <item>Bootstrap - Progress Bars</item>
+        <item>Bootstrap - Media Object</item>
+        <item>Bootstrap - List Group</item>
+        <item>Bootstrap - Panels</item>
+        <item>Bootstrap - Wells</item>
+        <item>Bootstrap - Plugins Overview</item>
+        <item>Bootstrap - Transition Plugin</item>
+        <item>Bootstrap - Modal Plugin</item>
+        <item>Bootstrap - Dropdown Plugin</item>
+        <item>Bootstrap - Scrollspy Plugin</item>
+        <item>Bootstrap - Tab Plugin</item>
+        <item>Bootstrap - Tooltip Plugin</item>
+        <item>Bootstrap - Popover Plugin</item>
+        <item>Bootstrap - Alert Plugin</item>
+        <item>Bootstrap - Button Plugin</item>
+        <item>Bootstrap - Collapse Plugin</item>
+        <item>Bootstrap - Carousel Plugin</item>
+        <item>Bootstrap - Affix Plugin</item>
+    </string-array>
+    <string-array name="arrayCss">
+        <item>CSS - Resources</item>
+        <item>CSS - Color References</item>
+        <item>CSS - Home</item>
+        <item>CSS - Introduction</item>
+        <item>CSS - Syntax</item>
+        <item>CSS - Inclusion</item>
+        <item>CSS - Units</item>
+        <item>CSS - Colors</item>
+        <item>CSS - Backgrounds</item>
+        <item>CSS - Fonts</item>
+        <item>CSS - Text</item>
+        <item>CSS - Images</item>
+        <item>CSS - Links</item>
+        <item>CSS - Tables</item>
+        <item>CSS - Borders</item>
+        <item>CSS - Margins</item>
+        <item>CSS - Lists</item>
+        <item>CSS - Padding</item>
+        <item>CSS - Cursors</item>
+        <item>CSS - Outlines</item>
+        <item>CSS - Dimension</item>
+        <item>CSS - Scrollbars</item>
+        <item>CSS - Visibility</item>
+        <item>CSS - Positioning</item>
+        <item>CSS - Layers</item>
+        <item>CSS - Pseudo Classes</item>
+        <item>CSS - Pseudo Elements</item>
+        <item>CSS - at Rules</item>
+        <item>CSS - Text Effects</item>
+        <item>CSS - Media Types</item>
+        <item>CSS - Paged Media</item>
+        <item>CSS - Aural Media</item>
+        <item>CSS - Printing</item>
+        <item>CSS - Layouts</item>
+        <item>CSS - Validations</item>
+    </string-array>
+    <string-array name="arrayCss3">
+        <item>CSS3 - Introduction</item>
+        <item>CSS3 - Borders</item>
+        <item>CSS3 - Backgrounds</item>
+        <item>CSS3 - Gradients</item>
+        <item>CSS3 - Text Effects</item>
+        <item>CSS3 - Fonts</item>
+        <item>CSS3 - 2D Transforms</item>
+        <item>CSS3 - 3D Transforms</item>
+        <item>CSS3 - Transitions</item>
+        <item>CSS3 - Animations</item>
+        <item>CSS3 - Multiple Columns</item>
+        <item>CSS3 - User Interface</item>
+        <item>CSS3 - Responsive</item>
+    </string-array>
+    <string-array name="arrayGuide">
+        <item>Web - Developers Home</item>
+        <item>Web - Basic Concepts</item>
+        <item>Web - How it Works ?</item>
+        <item>Web - Browser Types</item>
+        <item>Web - Server Types</item>
+        <item>Web - Site Advantages</item>
+        <item>Web - Skills Required</item>
+        <item>Web - Tools Required</item>
+        <item>Web - Domain Names</item>
+        <item>Web - Site Construction</item>
+        <item>Web - Hosting Concepts</item>
+        <item>Web - Ecommerce Hosting</item>
+        <item>Web - Site Backup</item>
+        <item>Web - Site Statistics</item>
+        <item>Web - Site Popularity</item>
+        <item>Web - Free Graphics</item>
+    </string-array>
+    <string-array name="arrayHtml">
+        <item>HTML - Guide</item>
+        <item>HTML - Resources</item>
+        <item>HTML - Home</item>
+        <item>HTML - Overview</item>
+        <item>HTML - Basic Tags</item>
+        <item>HTML - Elements</item>
+        <item>HTML - Attributes</item>
+        <item>HTML - Formatting</item>
+        <item>HTML - Phrase Tags</item>
+        <item>HTML - Meta Tags</item>
+        <item>HTML - Comments</item>
+        <item>HTML - Images</item>
+        <item>HTML - Tables</item>
+        <item>HTML - Lists</item>
+        <item>HTML - Text Links</item>
+        <item>HTML - Image Links</item>
+        <item>HTML - Email Links</item>
+        <item>HTML - Frames</item>
+        <item>HTML - Iframes</item>
+        <item>HTML - Blocks</item>
+        <item>HTML - Backgrounds</item>
+        <item>HTML - Colors</item>
+        <item>HTML - Fonts</item>
+        <item>HTML - Forms</item>
+        <item>HTML - Embed Multimedia</item>
+        <item>HTML - Marquees</item>
+        <item>HTML - Header</item>
+        <item>HTML - Style Sheet</item>
+        <item>HTML - Javascript</item>
+        <item>HTML - Layouts</item>
+        <item>HTML - Tags Reference</item>
+        <item>HTML - Attributes Reference</item>
+        <item>HTML - Events Reference</item>
+        <item>HTML - Fonts Reference</item>
+        <item>HTML - ASCII Codes</item>
+        <item>HTML - Color Names</item>
+        <item>HTML - Entities</item>
+        <item>HTML - MIME Media Types</item>
+        <item>HTML - URL Encoding</item>
+        <item>HTML - Character Encodings</item>
+        <item>HTML - Deprecated Tags</item>
+    </string-array>
+    <string-array name="arrayHtml5">
+        <item>HTML5 Home</item>
+        <item>HTML5 Overview</item>
+        <item>HTML5 Syntax</item>
+        <item>HTML5 Attributes</item>
+        <item>HTML5 Events</item>
+        <item>HTML5 Web Forms 2.0</item>
+        <item>HTML5 SVG</item>
+        <item>HTML5 MathML</item>
+        <item>HTML5 Web Storage</item>
+        <item>HTML5 Web SQL</item>
+        <item>HTML5 Server-Sent Events</item>
+        <item>HTML5 WebSocket</item>
+        <item>HTML5 Canvas</item>
+        <item>HTML5 Audio and Video</item>
+        <item>HTML5 Geolocation</item>
+        <item>HTML5 Microdata</item>
+        <item>HTML5 Drag and drop</item>
+        <item>HTML5 Web Workers</item>
+        <item>HTML5 Tags Reference</item>
+        <item>HTML5 Deprecated Tags</item>
+        <item>HTML5 New Tags</item>
+    </string-array>
+    <string-array name="arrayInterviews">
+        <item>PHP</item>
+        <item>CSS</item>
+        <item>CSS3</item>
+        <item>HTML</item>
+        <item>HTML5</item>
+        <item>JavaScript</item>
+        <item>jQuery</item>
+        <item>MySQL</item>
+    </string-array>
+    <string-array name="arrayJavaScript">
+        <item>Javascript - Guide</item>
+        <item>Javascript - Built-in Functions</item>
+        <item>Javascript - Home</item>
+        <item>Javascript - Overview</item>
+        <item>Javascript - Syntax</item>
+        <item>Javascript - Enabling</item>
+        <item>Javascript - Placement</item>
+        <item>Javascript - Variables</item>
+        <item>Javascript - Operators</item>
+        <item>Javascript - If.Else</item>
+        <item>Javascript - Switch Case</item>
+        <item>Javascript - While Loop</item>
+        <item>Javascript - For Loop</item>
+        <item>Javascript - For.in</item>
+        <item>Javascript - Loop Control</item>
+        <item>Javascript - Functions</item>
+        <item>Javascript - Events</item>
+        <item>Javascript - Cookies</item>
+        <item>Javascript - Page Redirect</item>
+        <item>Javascript - Dialog Boxes</item>
+        <item>Javascript - Void Keyword</item>
+        <item>Javascript - Page Printing</item>
+        <item>Javascript - Objects</item>
+        <item>Javascript - Number</item>
+        <item>Javascript - Boolean</item>
+        <item>Javascript - Strings</item>
+        <item>Javascript - Arrays</item>
+        <item>Javascript - Date</item>
+        <item>Javascript - Math</item>
+        <item>Javascript - RegExp</item>
+        <item>Javascript - HTML DOM</item>
+        <item>Javascript - Error Handling</item>
+        <item>Javascript - Validations</item>
+        <item>Javascript - Animation</item>
+        <item>Javascript - Multimedia</item>
+        <item>Javascript - Debugging</item>
+        <item>Javascript - Image Map</item>
+        <item>Javascript - Browsers</item>
+    </string-array>
+    <string-array name="arrayJquery">
+        <item>jQuery - Guide</item>
+        <item>jQuery - Utilities</item>
+        <item>jQuery - Plugins</item>
+        <item>jQuery - Home</item>
+        <item>jQuery - Overview</item>
+        <item>jQuery - Basics</item>
+        <item>jQuery - Selectors</item>
+        <item>jQuery - Attributes</item>
+        <item>jQuery - Traversing</item>
+        <item>jQuery - CSS</item>
+        <item>jQuery - DOM</item>
+        <item>jQuery - Events</item>
+        <item>jQuery - AJAX</item>
+        <item>jQuery - Effects</item>
+    </string-array>
+    <string-array name="arrayJqueryUI">
+        <item>JqueryUI - Quick Guide</item>
+        <item>JqueryUI - Useful Resources</item>
+        <item>JqueryUI - Home</item>
+        <item>JqueryUI - Overview</item>
+        <item>JqueryUI - Environment Setup</item>
+        <item>JqueryUI - Draggable</item>
+        <item>JqueryUI - Droppable</item>
+        <item>JqueryUI - Resizable</item>
+        <item>JqueryUI - Selectable</item>
+        <item>JqueryUI - Sortable</item>
+        <item>JqueryUI - Accordion</item>
+        <item>JqueryUI - Autocomplete</item>
+        <item>JqueryUI - Button</item>
+        <item>JqueryUI - Datepicker</item>
+        <item>JqueryUI - Dialog</item>
+        <item>JqueryUI - Menu</item>
+        <item>JqueryUI - Progressbar</item>
+        <item>JqueryUI - Slider</item>
+        <item>JqueryUI - Spinner</item>
+        <item>JqueryUI - Tabs</item>
+        <item>JqueryUI - Tooltip</item>
+        <item>JqueryUI - Add Class</item>
+        <item>JqueryUI - Color Animation</item>
+        <item>JqueryUI - Effect</item>
+        <item>JqueryUI - Hide</item>
+        <item>JqueryUI - Remove Class</item>
+        <item>JqueryUI - Show</item>
+        <item>JqueryUI - Switch Class</item>
+        <item>JqueryUI - Toggle</item>
+        <item>JqueryUI - Toggle Class</item>
+        <item>JqueryUI - Position</item>
+        <item>JqueryUI - Widget Factory</item>
+    </string-array>
+    <string-array name="arrayMysql">
+        <item>MySQL Home</item>
+        <item>MySQL Introduction</item>
+        <item>MySQL Installation</item>
+        <item>MySQL Administration</item>
+        <item>MySQL PHP Syntax</item>
+        <item>MySQL Connection</item>
+        <item>MySQL Select Database</item>
+        <item>MySQL Data Types</item>
+        <item>MySQL Create Tables</item>
+        <item>MySQL Drop Tables</item>
+        <item>MySQL Insert Query</item>
+        <item>MySQL Select Query</item>
+        <item>MySQL Where Clause</item>
+        <item>MySQL Update Query</item>
+        <item>MySQL Delete Query</item>
+        <item>MySQL Like Clause</item>
+        <item>MySQL Sorting Results</item>
+        <item>MySQL Using Join</item>
+        <item>MySQL NULL Values</item>
+        <item>MySQL Regexps</item>
+        <item>MySQL Transactions</item>
+        <item>MySQL Alter Command</item>
+        <item>MySQL Indexes</item>
+        <item>MySQL Temporary Tables</item>
+        <item>MySQL Clone Tables</item>
+        <item>MySQL Database Info</item>
+        <item>MySQL Using Sequences</item>
+        <item>MySQL Handling Duplicates</item>
+        <item>MySQL SQL Injection</item>
+        <item>MySQL Database Export</item>
+        <item>MySQL Database Import</item>
+    </string-array>
+    <string-array name="arrayPhp">
+        <item>PHP Home</item>
+        <item>PHP Introduction</item>
+        <item>PHP Environment</item>
+        <item>PHP Syntax Overview</item>
+        <item>PHP Variable Types</item>
+        <item>PHP Constants</item>
+        <item>PHP Operator Types</item>
+        <item>PHP Decision Making</item>
+        <item>PHP Loop Types</item>
+        <item>PHP Arrays</item>
+        <item>PHP Strings</item>
+        <item>PHP Web Concepts</item>
+        <item>PHP GET and POST</item>
+        <item>PHP File Inclusion</item>
+        <item>PHP Files and I/O</item>
+        <item>PHP Functions</item>
+        <item>PHP Cookies</item>
+        <item>PHP Sessions</item>
+        <item>PHP Sending Emails</item>
+        <item>PHP File Uploading</item>
+        <item>PHP Coding Standard</item>
+        <item>PHP Predefined Variables</item>
+        <item>PHP Regular Expression</item>
+        <item>PHP Error Handling</item>
+        <item>PHP Bugs Debugging</item>
+        <item>PHP Date and Time</item>
+        <item>PHP and MySQL</item>
+        <item>PHP and AJAX</item>
+        <item>PHP and XML</item>
+        <item>PHP Object Oriented</item>
+        <item>PHP for C Developers</item>
+        <item>PHP for PERL Developers</item>
+    </string-array>
+    <string-array name="arrayPython">
+        <item>Python - Home</item>
+        <item>Python - Overview</item>
+        <item>Python - Environment</item>
+        <item>Python - Basic Syntax</item>
+        <item>Python - Variable Types</item>
+        <item>Python - Basic Operators</item>
+        <item>Python - Decision Making</item>
+        <item>Python - Loops</item>
+        <item>Python - Numbers</item>
+        <item>Python - Strings</item>
+        <item>Python - Lists</item>
+        <item>Python - Tuples</item>
+        <item>Python - Dictionary</item>
+        <item>Python - Date and Time</item>
+        <item>Python - Functions</item>
+        <item>Python - Modules</item>
+        <item>Python - Files I/O</item>
+        <item>Python - Exceptions</item>
+        <item>Python - Classes/Objects</item>
+        <item>Python - Reg Expressions</item>
+        <item>Python - CGI Programming</item>
+        <item>Python - Database Access</item>
+        <item>Python - Networking</item>
+        <item>Python - Sending Email</item>
+        <item>Python - Multithreading</item>
+        <item>Python - XML Processing</item>
+        <item>Python - GUI Programming</item>
+        <item>Python - Further Extensions</item>
+        <item>Python - Quick Guide</item>
+        <item>Python - Tools and Utilities</item>
+        <item>Python - Useful Resources</item>
+    </string-array>
+</resources>
